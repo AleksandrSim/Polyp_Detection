@@ -4,4 +4,4 @@ In this project I will detect polyps that are found during colonoscopy. I will u
 The Original dataset can be found here https://www.dropbox.com/s/p5qe9eotetjnbmq/CVC-ClinicDB.rar?dl=0&file_subpath=%2FCVC-ClinicDB. 
 For deep learning part, I have used Keras framework
 
-![alt text](https://www.linkpicture.com/view.php?img=LPic5fb6d67e9c134368990314)
+![alt text](https://www.linkpicture.com/q/detected_polyp.png)
